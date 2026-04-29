@@ -5,10 +5,10 @@ BOT_TOKEN = os.environ.get("BOT_TOKEN", "8785842653:AAH-ksMbomVfdIdM4PB8vXXTfSWh
 API_ID = int(os.environ.get("API_ID", "33461228"))
 API_HASH = os.environ.get("API_HASH", "52850b8b740b1f87bb55329cce4d65a0")
 OWNER = int(os.environ.get("OWNER", "8704133698"))
-BOT_USERNAME = os.environ.get('BOT_USERNAME', "")
+BOT_USERNAME = os.environ.get('BOT_USERNAME', "File_S_Demobot")
 
 FORCE_SUBS = os.environ.get("FORCE_SUBS", "HxBots")
-LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002031041556"))
+LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1003703420692"))
 
 DB_URL = os.environ.get("DB_URL", "")
 DB_NAME = os.environ.get("DB_NAME", "renamebot-premium")
